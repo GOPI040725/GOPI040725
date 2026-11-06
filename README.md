@@ -1,18 +1,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:6A0DAD,100:C77DFF&height=220&section=header&text=GOPI&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20ML%20ENTHUSIAST&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:6A0DAD,100:C77DFF&height=200&section=header&text=GOPI&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;AI+%26+Machine+Learning+Enthusiast;Exploring+Agentic+AI;Building+Innovative+Applications" />
+<h2>Software Developer | AI & ML Enthusiast</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Learning+Agentic+AI;Building+Innovative+Projects" />
 
 <br/>
 
-<a href="https://github.com/darling74">
-<img src="https://img.shields.io/badge/GitHub-darling74-8A2BE2?style=for-the-badge&logo=github"/>
+<a href="https://github.com/darling74?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/darling74?tab=repositories">
-<img src="https://img.shields.io/badge/My_Projects-Explore-A855F7?style=for-the-badge&logo=github"/>
+<a href="https://github.com/darling74">
+<img src="https://img.shields.io/badge/GitHub%20Profile-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -21,14 +23,15 @@
 
 ## 💜 ABOUT ME
 
-Hello! I'm **Gopi**, an aspiring Software Developer and technology enthusiast from India.
+Hello! I'm **Gopi**, a passionate technology enthusiast and aspiring Software Developer from India.
 
-- 🎓 M.Sc. Network Technology & Information Technology Student
+- 🎓 Pursuing M.Sc. Network Technology & Information Technology.
 - 💻 Interested in Software Development.
 - 🤖 Exploring Artificial Intelligence & Machine Learning.
-- 🧠 Learning Agentic AI and intelligent automation.
+- 🧠 Learning Agentic AI and Intelligent Automation.
 - 🌐 Interested in Full Stack Web Development.
-- 🚀 Passionate about building real-world applications.
+- 🚀 Passionate about building innovative real-world applications.
+- 📚 Always learning and exploring new technologies.
 - 🎯 Aspiring Software Developer and AI Engineer.
 
 ---
@@ -37,53 +40,59 @@ Hello! I'm **Gopi**, an aspiring Software Developer and technology enthusiast fr
 
 ### Programming Languages
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js&theme=dark"/>
-</p>
+
+</div>
 
 ### Frameworks & Tools
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=flask,firebase,mongodb,mysql,opencv,git,github,vscode&theme=dark"/>
-</p>
+
+</div>
 
 ### Areas of Interest
 
-<p align="center">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-C77DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Development-9333EA?style=for-the-badge"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-C77DFF?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-### 🤖 1. ZARA – Personal AI Assistant
+### 🤖 01. ZARA – Personal AI Assistant
 
-A personal AI assistant project concept with voice and text interaction, memory, reminders and scheduling.
+A personal AI assistant designed to support voice and text interaction, personal memory, reminders, scheduling and intelligent assistance.
 
-**Technologies:** Python, AI, Voice Processing
+**Technologies:** Python, AI, Voice Processing.
 
-### 💰 2. MONEYTRACK PRO
+### 💰 02. MONEYTRACK PRO
 
-An Android finance management application for tracking income, expenses and budgets.
+An Android finance management application designed to manage income, expenses, budgets and financial activities.
 
-**Technologies:** Android Development, Database
+**Technologies:** Android Development, Database Management.
 
-### 🛡️ 3. AI-Based Violence Detection
+### 🛡️ 03. AI-Based Violence Detection System
 
-An AI-based video analysis project to identify potential violent activities using computer vision.
+An AI-powered video analysis system designed to identify potential violent activities using computer vision and pretrained models.
 
-**Technologies:** Python, Flask, YOLO, OpenCV
+**Technologies:** Python, Flask, YOLO, OpenCV.
 
-### 🛒 4. SuperMart Marketplace
+### 🛒 04. SuperMart Marketplace
 
-A multi-vendor marketplace project concept connecting customers, sellers and delivery partners.
+A multi-vendor marketplace concept connecting customers, sellers and delivery partners.
 
-**Technologies:** HTML, CSS, JavaScript, Firebase
+**Technologies:** HTML, CSS, JavaScript, Firebase.
 
 ---
 
@@ -108,7 +117,7 @@ A multi-vendor marketplace project concept connecting customers, sellers and del
 **M.Sc. Network Technology & Information Technology**
 
 St. John's College, Palayamkottai  
-Currently pursuing 2nd Year.
+Currently Pursuing – 2nd Year.
 
 **Bachelor of Computer Applications (BCA)**
 
@@ -117,11 +126,11 @@ St. John's College, Palayamkottai
 
 ---
 
-## 🏆 CERTIFICATIONS
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
-- Introduction to MongoDB (For Students).
-- Foundation of Cloud, IoT, Edge & ML – NPTEL / SWAYAM.
-- Introduction to Prompt Engineering with GitHub Copilot.
+- 🏅 Introduction to MongoDB (For Students).
+- ☁️ Foundation of Cloud, IoT, Edge & ML – NPTEL / SWAYAM.
+- 💻 Introduction to Prompt Engineering with GitHub Copilot.
 
 ---
 
@@ -130,7 +139,7 @@ St. John's College, Palayamkottai
 <div align="center">
 
 <a href="https://github.com/darling74">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -149,9 +158,8 @@ St. John's College, Palayamkottai
 
 ### 💜 THANK YOU FOR VISITING MY PROFILE!
 
-**Code | Learn | Build | Innovate**
+**CODE • LEARN • BUILD • INNOVATE**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:6A0DAD,100:C77DFF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:6A0DAD,100:C77DFF&height=120&section=footer" width="100%"/>
 
 </div>
-
